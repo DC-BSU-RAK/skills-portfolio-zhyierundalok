@@ -1,7 +1,6 @@
 from tkinter import *
 from tkinter import messagebox, simpledialog, scrolledtext
 from PIL import ImageTk, Image
-
 root = Tk()
 root.config()
 root.title("Student Manager")
